@@ -9,6 +9,8 @@
 
 - 🤝 Hobbies **Travelling, Cricket, Listening Music**
 
+- 📫 How to reach me **prathamkamble727@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham-kamble-aa4405195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-kamble-aa4405195" height="30" width="40" /></a>
